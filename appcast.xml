@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>EasyReels</title>
+        <link>https://raw.githubusercontent.com/gulfvideo/easy-reels-releases/main/appcast.xml</link>
+        <description>Updates for EasyReels.</description>
+        <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 11 Sep 2026 16:25:29 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h3>EasyReels 0.1.0</h3>
+<p>First release. Drop in a sermon — or a whole service — and get back vertical clips
+ready to post.</p>
+<ul>
+  <li>Transcribes on your Mac, then asks Apple Intelligence which moments stand on their own.</li>
+  <li>Handles a whole service: the worship set and the announcements are skipped, and only the preaching is searched.</li>
+  <li>Keeps the preacher in frame, burns in captions with the spoken word highlighted, and exports 9:16, 4:5, 1:1 or 16:9.</li>
+  <li>Title cards in four looks, your church logo and colours, saved as presets.</li>
+  <li>Writes the blog post, devotional, discussion guide, social posts and quotes to go with the clips.</li>
+  <li>Nothing is uploaded anywhere.</li>
+</ul>
+<p><b>First launch:</b> macOS will block it once. Open System Settings › Privacy &amp;
+Security and click <b>Open Anyway</b>. You only do this once — updates never ask again.</p>
+            ]]></description>
+            <enclosure url="https://github.com/gulfvideo/easy-reels-releases/releases/download/v0.1.0/EasyReels-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="ErQIm857HxsPMBx6x3DGsCc/ZUhdLq/TWTs7HR3qmSFwugQaF+YP6YLf6F30CgWzf0QAK75hsTRg/G1XiQUXBg==" length="3584065" />
+        </item>
+    </channel>
+</rss>
