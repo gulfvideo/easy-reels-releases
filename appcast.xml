@@ -6,6 +6,20 @@
         <description>Updates for EasyReels.</description>
         <language>en</language>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Fri, 11 Sep 2026 16:28:40 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h3>EasyReels 0.2.0</h3>
+<ul>
+  <li>Settings now shows which version you're running, under Updates.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/gulfvideo/easy-reels-releases/releases/download/v0.2.0/EasyReels-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="x97ajFXxxMRSbqpRTVoTQK3zzDMfNJtkrZgRUBrGtbvW1KJh2Lydqdx5B4MNcFol4RozuSaYCdrn8YDl9laqCQ==" length="3586536" />
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Fri, 11 Sep 2026 16:25:29 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
