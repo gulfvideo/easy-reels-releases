@@ -6,6 +6,25 @@
         <description>Updates for EasyReels.</description>
         <language>en</language>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 15 Sep 2026 20:56:51 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h3>EasyReels 0.3.0</h3>
+<p>Exports finish almost instantly, and there is a lot more to do with the background.</p>
+<ul>
+  <li><b>Clips render while you read them.</b> The encoder used to sit idle during the review and then make you wait. Now the work is done by the time you press Export, which is usually just a file copy.</li>
+  <li><b>Your own image or video behind the speaker</b>, looped for as long as the clip runs. Gradients too.</li>
+  <li><b>The block behind the spoken word can be coloured.</b> It never could be — the picker for it was missing.</li>
+  <li>Zoom goes below 1.0x, which is the only way a background shows at 16:9.</li>
+  <li>Optionally hand the transcript to Claude or ChatGPT instead of Apple Intelligence. Off by default: those read the whole sermon at once rather than in eight passes, but they cost money and the transcript leaves your Mac.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/gulfvideo/easy-reels-releases/releases/download/v0.3.0/EasyReels-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="ySCryZzNtbiH1p/LDKD90r7z0trwtAEc5SIlqQ9eHPY9gLPjomrh9VWAF3akoiv8dIjwze4buVBR3amfx9vnCw==" length="3775411" />
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Fri, 11 Sep 2026 16:28:40 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
