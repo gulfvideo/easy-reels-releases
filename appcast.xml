@@ -6,6 +6,23 @@
         <description>Updates for EasyReels.</description>
         <language>en</language>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Tue, 29 Sep 2026 18:23:35 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h3>EasyReels 0.3.1</h3>
+<p>A safety setting for the optional cloud model, and a tidy-up underneath.</p>
+<ul>
+  <li><b>A ceiling on what a cloud model may spend.</b> Settings › Model now caps how many billed calls one run can make. Reading a sermon normally takes two or three; past the limit the run stops rather than carrying on billing. Only applies if you have chosen Claude or ChatGPT — Apple Intelligence is free and unmetered.</li>
+  <li>The release tooling is ready for a signed, notarized build, so the first-launch warning can go away once the developer account is in place.</li>
+  <li>Removed a menu command that wrote an FFmpeg script the app renders better itself, plus a few hundred lines nothing was using.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/gulfvideo/easy-reels-releases/releases/download/v0.3.1/EasyReels-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="ei8fi7ppyMIXqJX31LEJoqASugUGkFDMUh2lz1JppOvd5noSEDuUQiG0XsRhBjwMkp8RQEKTumX3oGDXRwCbDw==" length="3783960" />
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Tue, 15 Sep 2026 20:56:51 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
